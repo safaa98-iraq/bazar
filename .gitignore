@@ -1,0 +1,2 @@
+git rm --cached apps/web.zip bazar.zip
+git rm -r --cached apps/web/.next apps/api/dist apps/api/uploads
